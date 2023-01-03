@@ -1,4 +1,4 @@
-# homework3
+# Systems programming - p3
 
 Compile gcc draft1.c
 
